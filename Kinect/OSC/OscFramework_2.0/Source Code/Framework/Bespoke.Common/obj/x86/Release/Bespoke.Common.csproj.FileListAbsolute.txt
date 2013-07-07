@@ -1,0 +1,4 @@
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Framework\Bespoke.Common\bin\x86\Release\Bespoke.Common.XML
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Framework\Bespoke.Common\bin\x86\Release\Bespoke.Common.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Framework\Bespoke.Common\obj\x86\Release\Bespoke.Common.csprojResolveAssemblyReference.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Framework\Bespoke.Common\obj\x86\Release\Bespoke.Common.dll

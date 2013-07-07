@@ -1,0 +1,3 @@
+Open openFrameworks / libs / poco / include / Poco / UnWindows.h
+
+Comment out line: #undef FormatMessage

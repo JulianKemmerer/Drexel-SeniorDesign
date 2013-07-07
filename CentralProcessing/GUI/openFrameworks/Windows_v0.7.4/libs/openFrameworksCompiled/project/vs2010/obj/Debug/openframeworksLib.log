@@ -1,0 +1,17 @@
+﻿Build started 6/12/2013 8:44:13 PM.
+     1>Project "C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\libs\openFrameworksCompiled\project\vs2010\openframeworksLib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\Debug\openframeworksLib.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         openframeworksLib.vcxproj -> C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\libs\openFrameworksCompiled\project\vs2010\..\..\lib\vs2010\openframeworksLibDebug.lib
+       FinalizeBuildStatus:
+         Deleting file "obj\Debug\openframeworksLib.unsuccessfulbuild".
+         Touching "obj\Debug\openframeworksLib.lastbuildstate".
+     1>Done Building Project "C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\libs\openFrameworksCompiled\project\vs2010\openframeworksLib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

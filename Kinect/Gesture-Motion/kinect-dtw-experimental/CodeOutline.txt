@@ -1,0 +1,58 @@
+SkeletonExtractSkeletonFrameReady
+	Called when skeleton frame is ready (from sensor)
+	Frame has info on all skeletons in image
+	Passes each skeleton to SkeletonDataExtract - multiple person gestures can be tracked
+
+
+Skeleton2DDataExtract.ProcessData
+	Makes kinect skeleton data into something more useful for DTW
+	Joints extracted: Hands, elbows, wrists, shoulders
+	Manipulates each point to be centered between the shoulders
+	Normalizes based on distance between shoulder joints
+	Passes data to Skeleton2DdataCoordReady (which is an event tied to NuiSkeleton2DdataCoordReady in main cs)
+
+
+NuiSkeleton2DdataCoordReady
+	Check to see if we have the minimum # of frames to recognize a gesture (currently 6)
+	Also checks that we are not capturing a new gesture
+		Passes video buffer to recognizer object (DTW encapsulation) dtw.Recognize	
+		Returns string of gesture name or unknown	
+		String can be passed to anything as an indicator of 'gesture occured'
+		Reset the video buffer to empty
+	Adds new frame new list
+	Shifts skeleton frame window by one frame
+	Ignore every 1/2 frames right now
+	Each frame is a list of skeleton points
+
+
+DTWGestureRecognizer.Recognize
+	Checks against each recorded gesture (list of points)
+		Computes the 2D distance between the incoming points and prerecorded gesture
+		Checks the last frame of skeleton data in both the recorded and incoming gesture data
+			if too large then won't do full DTW (why - speed issue?)
+		Compute the DTW distances and scales it to the # of skeleton frames
+			(DTW distance is a function of # frames since distance accumulates each frame)
+		If the DTW value for this gesture is the minimum - this is the most accurate match
+		Store the DTW value
+	Check if the minimum DTW value found is below the global Threshold (0.6) then return what we thought was best gesture, if not return unknown
+		
+	
+DTWGestureRecognizer.Dist2
+	Sums the  difference between point vals (a[i]-b[i])^2 for each, then sqrt at end
+
+
+DTWGestureRecognizer.DTW
+	I do not fully understand the algorithm but it is O(n^2), wikipedia said there are implementations that are O(n)
+
+
+In regards to varying time of capture: 
+Right now the system uses the same # of frames for captureing new gestures as it does for storing them (and comparing).
+That is, a gesture is captured over X frames (and stored as such),
+also there are Y frames always in the buffer being comapared to each X-#-of-frame stored examples
+Right now X=y=32. I should be able to set them to different values and have DTW still work.
+
+	
+
+	
+	
+

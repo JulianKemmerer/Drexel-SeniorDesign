@@ -1,0 +1,7 @@
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\bin\x86\Release\Transmitter.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\bin\x86\Release\Bespoke.Common.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\bin\x86\Release\Bespoke.Common.Osc.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\bin\x86\Release\Bespoke.Common.Osc.xml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\bin\x86\Release\Bespoke.Common.xml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\obj\x86\Release\Transmitter.csprojResolveAssemblyReference.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Transmitter\obj\x86\Release\Transmitter.exe

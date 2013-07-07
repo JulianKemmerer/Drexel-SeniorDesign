@@ -1,0 +1,50 @@
+﻿<Window x:Class="kinect_tracking.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="768 " Width="1024" ResizeMode="NoResize" Loaded="MainWindow_Loaded">
+    <!-- Main Grid -->
+    <Grid>
+
+        <Canvas x:Name="skeletonCanvas" Height="{Binding ActualHeight, ElementName=PartialWindowHorizontal0, Mode=OneWay}" ClipToBounds="True" Background="Black" Margin="249,0,0,141"/>
+        <TextBox x:Name="largeStatusText" IsReadOnly="True" FontSize="30" HorizontalAlignment="Center" Height="47" Margin="249,615,0,79" TextAlignment="Center" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="767"/>
+        <GroupBox Header="Audio Demo" HorizontalAlignment="Left" Margin="10,637,0,0" VerticalAlignment="Top" Width="152" Height="94">
+            <StackPanel HorizontalAlignment="Left" Height="99" VerticalAlignment="Top" Width="140" Margin="0,10,0,0">
+                <Button x:Name="selectAudioButton" HorizontalAlignment="Left" VerticalAlignment="Top"  RenderTransformOrigin="-0.16,4.3" Height="20" Content="Select Audio" Click="selectAudioButton_Click" Width="140"/>
+                <Button x:Name="playButton" Content="Play" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Click="playButton_Click"/>
+                <Button x:Name="pauseButton" Content="Pause" HorizontalAlignment="Left" VerticalAlignment="Top" Width="140" Click="pauseButton_Click"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Gesture Information" HorizontalAlignment="Left" Margin="249,667,0,0" VerticalAlignment="Top" Height="74" Width="767">
+            <DataGrid x:Name="gestureDataGrid" IsReadOnly="True" Margin="0,10,0,0"/>
+        </GroupBox>
+        <GroupBox x:Name="grpGesture" Header="Gesture Capture" HorizontalAlignment="Left" Margin="10,118,0,0" VerticalAlignment="Top" Height="206" Width="213">
+            <StackPanel HorizontalAlignment="Left" Height="176" VerticalAlignment="Top" Width="201" Margin="0,10,0,0">
+                <TextBox x:Name="txtGestureName" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Enter gesture name ..." VerticalAlignment="Top" Width="201"/>
+                <ComboBox x:Name="cmbbSkeletonCaptureSelect" IsReadOnly="True" IsEnabled="False"/>
+                <Button x:Name="btnCaptureGesture" Content="Begin Capture" HorizontalAlignment="Left" VerticalAlignment="Top" Width="201" Click="btnCaptureGesture_Click" IsEnabled="False"/>
+                <Button x:Name="btnSaveGestureToFile" Content="Save to File" IsEnabled="False"/>
+                <Button x:Name="btnLoadGestureFromFile" Content="Load from File" HorizontalAlignment="Left" VerticalAlignment="Top" Width="201" IsEnabled="False"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Kinect Information" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="103" Width="213">
+            <StackPanel HorizontalAlignment="Left"  VerticalAlignment="Top" Height="75" Width="201" Margin="0,10,0,0" >
+                <Button x:Name="btnConnectFirstKinect" Content="Connect First Kinect" HorizontalAlignment="Left" VerticalAlignment="Top" Width="201" Click="btnConnectFirstKinect_Click" Height="20" RenderTransformOrigin="-6.282,-1.42"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox x:Name="grpOSC" Header="Communication" HorizontalAlignment="Left" Margin="10,329,0,0" VerticalAlignment="Top" Height="221" Width="213">
+            <StackPanel HorizontalAlignment="Left" Width="201" Margin="0,8,0,-3">
+                <TextBox Height="23" TextWrapping="Wrap" Text="Transmitter" TextAlignment="Center" IsReadOnly="True"/>
+                <ComboBox x:Name="cmbbOSCTransType" SelectionChanged="cmbbOSCTransType_SelectionChanged"/>
+                <TextBox x:Name="txtOSCTransIP" Height="23" TextWrapping="Wrap" Text="127.0.0.1" TextChanged="txtOSCTransIP_TextChanged"/>
+                <TextBox x:Name="txtOSCTransPort" Height="23" TextWrapping="Wrap" Text="5103" TextChanged="txtOSCTransPort_TextChanged"/>
+                <Button x:Name="btnStartOSCTrans" IsEnabled="False" Content="Start Transmitter" Click="btnStartOSCTrans_Click"/>
+                <TextBox Height="23" TextWrapping="Wrap" Text="Receiver" TextAlignment="Center" IsReadOnly="True"/>
+                <ComboBox x:Name="cmbbOSCRecvType" SelectionChanged="cmbbOSCRecvType_SelectionChanged"/>
+                <TextBox x:Name="txtOSCRecvPort" Height="23" TextWrapping="Wrap" Text="Receiving Port" TextChanged="txtOSCRecvPort_TextChanged"/>
+                <Button x:Name="btnStartOSCRecv" IsEnabled="False" Content="Start Receiver" HorizontalAlignment="Right" Width="201" Click="btnStartOSCRecv_Click"/>
+            </StackPanel>
+        </GroupBox>
+
+
+    </Grid>
+</Window>

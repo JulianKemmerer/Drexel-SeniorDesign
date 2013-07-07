@@ -1,0 +1,25 @@
+﻿Build started 3/4/2013 8:54:52 AM.
+     1>Project "C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "obj\Debug\main.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\addons\ofxOsc\libs\oscpack\src\osc /I..\..\..\addons\ofxOsc\libs\oscpack\include\osc /I..\..\..\addons\ofxOsc\libs\oscpack\include\ip /I..\..\..\addons\ofxOsc\src /I..\..\..\libs\openFrameworks /I..\..\..\libs\openFrameworks\graphics /I..\..\..\libs\openFrameworks\app /I..\..\..\libs\openFrameworks\sound /I..\..\..\libs\openFrameworks\utils /I..\..\..\libs\openFrameworks\communication /I..\..\..\libs\openFrameworks\video /I..\..\..\libs\openFrameworks\types /I..\..\..\libs\openFrameworks\math /I..\..\..\libs\openFrameworks\3d /I..\..\..\libs\openFrameworks\gl /I..\..\..\libs\openFrameworks\events /I..\..\..\libs\glut\include /I..\..\..\libs\rtAudio\include /I..\..\..\libs\quicktime\include /I..\..\..\libs\freetype\include /I..\..\..\libs\freetype\include\freetype2 /I..\..\..\libs\freeImage\include /I..\..\..\libs\fmodex\include /I..\..\..\libs\videoInput\include /I..\..\..\libs\glew\include\ /I..\..\..\libs\glu\include /I..\..\..\libs\tess2\include /I..\..\..\libs\cairo\include\cairo /I..\..\..\libs\poco\include /I..\..\..\addons /Isrc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D POCO_STATIC /D CAIRO_WIN32_STATIC_BUILD /D DISABLE_SOME_FLOATING_POINT /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\Debug\\" /Fd"obj\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\CrossPlatformCode\main.cpp ..\..\..\..\CrossPlatformCode\app.cpp ..\..\..\addons\ofxOsc\src\ofxOscBundle.cpp ..\..\..\addons\ofxOsc\src\ofxOscMessage.cpp ..\..\..\addons\ofxOsc\src\ofxOscReceiver.cpp ..\..\..\addons\ofxOsc\src\ofxOscSender.cpp
+         ofxOscSender.cpp
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscsender.cpp(34): fatal error C1083: Cannot open include file: 'UdpSocket.h': No such file or directory
+         ofxOscReceiver.cpp
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscreceiver.h(47): fatal error C1083: Cannot open include file: 'UdpSocket.h': No such file or directory
+         ofxOscMessage.cpp
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscmessage.cpp(93): warning C4244: 'return' : conversion from 'float' to 'int32_t', possible loss of data
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscmessage.cpp(112): warning C4244: 'return' : conversion from 'float' to 'uint64_t', possible loss of data
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscmessage.cpp(132): warning C4244: 'return' : conversion from 'int32_t' to 'float', possible loss of data
+         ofxOscBundle.cpp
+         app.cpp
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscreceiver.h(47): fatal error C1083: Cannot open include file: 'UdpSocket.h': No such file or directory
+         main.cpp
+     1>c:\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxoscreceiver.h(47): fatal error C1083: Cannot open include file: 'UdpSocket.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:14.41

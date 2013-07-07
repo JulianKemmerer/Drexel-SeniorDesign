@@ -1,0 +1,7 @@
+Disable incremental linking, by going to
+
+Project Properties 
+   -> Configuration Properties 
+       -> Linker (General) 
+          -> Enable Incremental Linking -> "No (/INCREMENTAL:NO)"
+

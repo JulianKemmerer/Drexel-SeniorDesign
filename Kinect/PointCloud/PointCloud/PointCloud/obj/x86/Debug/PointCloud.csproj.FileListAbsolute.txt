@@ -1,0 +1,11 @@
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\bin\Debug\PointCloud.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\bin\Debug\PointCloud.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\MainWindow.baml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\MainWindow.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\App.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\PointCloud_MarkupCompile.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\PointCloud.g.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\PointCloud.csproj.GenerateResource.Cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\PointCloud.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\PointCloud\PointCloud\PointCloud\obj\x86\Debug\PointCloud.pdb

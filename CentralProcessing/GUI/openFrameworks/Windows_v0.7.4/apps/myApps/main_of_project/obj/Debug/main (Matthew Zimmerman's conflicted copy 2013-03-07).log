@@ -1,0 +1,42 @@
+﻿Build started 3/5/2013 8:15:44 PM.
+     1>Project "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "obj\Debug\main.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\main_debug.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\libs\glut\lib\vs2010 /LIBPATH:..\..\..\libs\rtAudio\lib\vs2010 /LIBPATH:..\..\..\libs\FreeImage\lib\vs2010 /LIBPATH:..\..\..\libs\freetype\lib\vs2010 /LIBPATH:..\..\..\libs\quicktime\lib\vs2010 /LIBPATH:..\..\..\libs\fmodex\lib\vs2010 /LIBPATH:..\..\..\libs\videoInput\lib\vs2010 /LIBPATH:..\..\..\libs\cairo\lib\vs2010 /LIBPATH:..\..\..\libs\glew\lib\vs2010 /LIBPATH:..\..\..\libs\glu\lib\vs2010 /LIBPATH:..\..\..\libs\Poco\lib\vs2010 /LIBPATH:..\..\..\libs\tess2\lib\vs2010 ws2_32.lib winmm.lib ..\..\..\libs\portaudio\lib\portaudio_x86.lib "cairo-static.lib" "pixman-1.lib" msimg32.lib OpenGL32.lib GLu32.lib kernel32.lib setupapi.lib Vfw32.lib comctl32.lib glut32.lib rtAudioD.lib videoInput.lib libfreetype.lib FreeImage.lib qtmlClient.lib dsound.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib glew32s.lib fmodex_vc.lib glu32.lib PocoFoundationmdd.lib PocoNetmdd.lib PocoUtilmdd.lib PocoXMLmdd.lib Ws2_32.lib tess2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:PocoFoundationd.lib /NODEFAULTLIB:atlthunk.lib /NODEFAULTLIB:LIBC.lib /NODEFAULTLIB:LIBCMT /MANIFEST /ManifestFile:"obj\Debug\main_debug.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\bin\main_debug_debugInfo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"bin\main_debug.lib" /MACHINE:X86 obj\Debug\main.obj
+         obj\Debug\app.obj
+         obj\Debug\IpEndpointName.obj
+         obj\Debug\NetworkingUtils.obj
+         obj\Debug\UdpSocket.obj
+         obj\Debug\NetworkingUtilsWin.obj
+         obj\Debug\UdpSocketWin.obj
+         obj\Debug\OscOutboundPacketStream.obj
+         obj\Debug\OscPrintReceivedElements.obj
+         obj\Debug\OscReceivedElements.obj
+         obj\Debug\OscTypes.obj
+         obj\Debug\ofxOscBundle.obj
+         obj\Debug\ofxOscMessage.obj
+         obj\Debug\ofxOscReceiver.obj
+         obj\Debug\ofxOscSender.obj
+         obj\Debug\ofPASoundStream.obj
+         "..\..\..\libs\libsndfile\lib\libsndfile-1.lib"
+         "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\libs\openFrameworksCompiled\lib\vs2010\openframeworksLibDebug.lib"
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_ElbowLeft" (?Type_ElbowLeft@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_WristRight" (?Type_WristRight@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_ElbowRight" (?Type_ElbowRight@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_HandRight" (?Type_HandRight@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_WristLeft" (?Type_WristLeft@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_ShoulderRight" (?Type_ShoulderRight@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_ShoulderLeft" (?Type_ShoulderLeft@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+     1>app.obj : error LNK2005: "public: static class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const Joint::Type_HandLeft" (?Type_HandLeft@Joint@@2V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@B) already defined in main.obj
+            Creating library bin\main_debug.lib and object bin\main_debug.exp
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>bin\main_debug.exe : fatal error LNK1169: one or more multiply defined symbols found
+     1>Done Building Project "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.36

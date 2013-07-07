@@ -1,0 +1,29 @@
+﻿Build started 6/12/2013 8:44:13 PM.
+     1>Project "C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\Debug\main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         main.vcxproj -> C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\bin\main_debug.exe
+       PostBuildEvent:
+         Description: adding DLLs and creating data folder
+         xcopy /e /i /y "C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\*.dll" "C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\bin"
+         :VCEnd
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\Assimp32.dll
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\fmodex.dll
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\fmodexL.dll
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\FreeImage.dll
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\FreeType-6.dll
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\glut32.dll
+         C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\..\..\..\export\vs2010\Zlib.dll
+         7 File(s) copied
+       FinalizeBuildStatus:
+         Deleting file "obj\Debug\main.unsuccessfulbuild".
+         Touching "obj\Debug\main.lastbuildstate".
+     1>Done Building Project "C:\Users\ExCITe\Dropbox\Drexel\Classes\Junior Year\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15

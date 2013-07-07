@@ -1,0 +1,7 @@
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\bin\x86\Release\Receiver.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\bin\x86\Release\Bespoke.Common.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\bin\x86\Release\Bespoke.Common.Osc.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\bin\x86\Release\Bespoke.Common.Osc.xml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\bin\x86\Release\Bespoke.Common.xml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\obj\x86\Release\Receiver.csprojResolveAssemblyReference.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\OSC\OscFramework_2.0\Source Code\Samples\OscDemo\CS\Receiver\obj\x86\Release\Receiver.exe

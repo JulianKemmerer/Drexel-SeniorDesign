@@ -1,0 +1,36 @@
+﻿Build started 3/4/2013 6:42:58 PM.
+     1>Project "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\Debug\main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\addons\ofxOsc\libs\oscpack\src /I..\..\..\addons\ofxOsc\libs\oscpack\src\osc /I..\..\..\addons\ofxOsc\libs\oscpack\src\ip /I..\..\..\addons\ofxOsc\src /I..\..\..\libs\openFrameworks /I..\..\..\libs\openFrameworks\graphics /I..\..\..\libs\openFrameworks\app /I..\..\..\libs\openFrameworks\sound /I..\..\..\libs\openFrameworks\utils /I..\..\..\libs\openFrameworks\communication /I..\..\..\libs\openFrameworks\video /I..\..\..\libs\openFrameworks\types /I..\..\..\libs\openFrameworks\math /I..\..\..\libs\openFrameworks\3d /I..\..\..\libs\openFrameworks\gl /I..\..\..\libs\openFrameworks\events /I..\..\..\libs\glut\include /I..\..\..\libs\rtAudio\include /I..\..\..\libs\quicktime\include /I..\..\..\libs\freetype\include /I..\..\..\libs\freetype\include\freetype2 /I..\..\..\libs\freeImage\include /I..\..\..\libs\fmodex\include /I..\..\..\libs\videoInput\include /I..\..\..\libs\glew\include\ /I..\..\..\libs\glu\include /I..\..\..\libs\tess2\include /I..\..\..\libs\cairo\include\cairo /I..\..\..\libs\poco\include /I..\..\..\addons /Isrc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D POCO_STATIC /D CAIRO_WIN32_STATIC_BUILD /D DISABLE_SOME_FLOATING_POINT /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\Debug\\" /Fd"obj\Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\CrossPlatformCode\app.cpp
+         app.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"bin\main_debug.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\..\libs\glut\lib\vs2010 /LIBPATH:..\..\..\libs\rtAudio\lib\vs2010 /LIBPATH:..\..\..\libs\FreeImage\lib\vs2010 /LIBPATH:..\..\..\libs\freetype\lib\vs2010 /LIBPATH:..\..\..\libs\quicktime\lib\vs2010 /LIBPATH:..\..\..\libs\fmodex\lib\vs2010 /LIBPATH:..\..\..\libs\videoInput\lib\vs2010 /LIBPATH:..\..\..\libs\cairo\lib\vs2010 /LIBPATH:..\..\..\libs\glew\lib\vs2010 /LIBPATH:..\..\..\libs\glu\lib\vs2010 /LIBPATH:..\..\..\libs\Poco\lib\vs2010 /LIBPATH:..\..\..\libs\tess2\lib\vs2010 ws2_32.lib winmm.lib "cairo-static.lib" "pixman-1.lib" msimg32.lib OpenGL32.lib GLu32.lib kernel32.lib setupapi.lib Vfw32.lib comctl32.lib glut32.lib rtAudioD.lib videoInput.lib libfreetype.lib FreeImage.lib qtmlClient.lib dsound.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib glew32s.lib fmodex_vc.lib glu32.lib PocoFoundationmdd.lib PocoNetmdd.lib PocoUtilmdd.lib PocoXMLmdd.lib Ws2_32.lib tess2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:PocoFoundationd.lib /NODEFAULTLIB:atlthunk.lib /NODEFAULTLIB:LIBC.lib /NODEFAULTLIB:LIBCMT /MANIFEST /ManifestFile:"obj\Debug\main_debug.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\bin\main_debug_debugInfo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"bin\main_debug.lib" /MACHINE:X86 obj\Debug\main.obj
+         obj\Debug\app.obj
+         obj\Debug\IpEndpointName.obj
+         obj\Debug\NetworkingUtils.obj
+         obj\Debug\UdpSocket.obj
+         obj\Debug\NetworkingUtilsWin.obj
+         obj\Debug\UdpSocketWin.obj
+         obj\Debug\OscOutboundPacketStream.obj
+         obj\Debug\OscPrintReceivedElements.obj
+         obj\Debug\OscReceivedElements.obj
+         obj\Debug\OscTypes.obj
+         obj\Debug\ofxOscBundle.obj
+         obj\Debug\ofxOscMessage.obj
+         obj\Debug\ofxOscReceiver.obj
+         obj\Debug\ofxOscSender.obj
+         "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\libs\openFrameworksCompiled\lib\vs2010\openframeworksLibDebug.lib"
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+            Creating library bin\main_debug.lib and object bin\main_debug.exp
+     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+     1>app.obj : error LNK2019: unresolved external symbol "public: virtual __thiscall ofPASoundStream::~ofPASoundStream(void)" (??1ofPASoundStream@@UAE@XZ) referenced in function "public: void __thiscall app::init_sound(void)" (?init_sound@app@@QAEXXZ)
+     1>app.obj : error LNK2019: unresolved external symbol "public: virtual bool __thiscall ofPASoundStream::setup(class ofBaseApp *,int,int,int,int,int)" (?setup@ofPASoundStream@@UAE_NPAVofBaseApp@@HHHHH@Z) referenced in function "public: void __thiscall app::init_sound(void)" (?init_sound@app@@QAEXXZ)
+     1>app.obj : error LNK2019: unresolved external symbol "public: __thiscall ofPASoundStream::ofPASoundStream(void)" (??0ofPASoundStream@@QAE@XZ) referenced in function "public: void __thiscall app::init_sound(void)" (?init_sound@app@@QAEXXZ)
+     1>bin\main_debug.exe : fatal error LNK1120: 3 unresolved externals
+     1>Done Building Project "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.27

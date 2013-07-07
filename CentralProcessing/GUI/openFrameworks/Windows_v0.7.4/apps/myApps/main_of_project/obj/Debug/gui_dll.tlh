@@ -1,0 +1,62 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (f5ae01db).
+//
+// c:\users\excite\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\apps\myapps\main_of_project\obj\debug\gui_dll.tlh
+//
+// C++ source equivalent of Win32 type library ..\..\..\..\..\..\CSharp\gui_dll\bin\Debug\gui_dll.tlb
+// compiler-generated file created 06/12/13 at 20:33:57 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace gui_dll {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("f370716c-4d2d-4bbe-993b-0aa6aec2ce49"))
+/* LIBID */ __gui_dll;
+struct __declspec(uuid("03b201e9-a9fe-34c9-884a-5f7aed2ef815"))
+/* dual interface */ IGUI_DLL;
+struct /* coclass */ gui_class;
+struct __declspec(uuid("6c63f545-a941-3d02-ac4c-9554e51bdd55"))
+/* dual interface */ _gui_class;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IGUI_DLL, __uuidof(IGUI_DLL));
+_COM_SMARTPTR_TYPEDEF(_gui_class, __uuidof(_gui_class));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("03b201e9-a9fe-34c9-884a-5f7aed2ef815"))
+IGUI_DLL : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall start_form ( ) = 0;
+      virtual HRESULT __stdcall getSettingsString (
+        /*[out,retval]*/ BSTR * pRetVal ) = 0;
+};
+
+struct __declspec(uuid("78c477a4-0fe3-34a9-ae16-3709d2cd67aa"))
+gui_class;
+    // [ default ] interface _gui_class
+    // interface _Object
+    // interface IGUI_DLL
+
+struct __declspec(uuid("6c63f545-a941-3d02-ac4c-9554e51bdd55"))
+_gui_class : IDispatch
+{};
+
+} // namespace gui_dll
+
+#pragma pack(pop)

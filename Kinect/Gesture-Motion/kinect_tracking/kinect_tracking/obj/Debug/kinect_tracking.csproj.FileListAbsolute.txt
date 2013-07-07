@@ -1,0 +1,13 @@
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\bin\Debug\kinect_tracking.exe.config
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\bin\Debug\kinect_tracking.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\bin\Debug\kinect_tracking.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\MainWindow.baml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\MainWindow.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\App.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking_MarkupCompile.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking.g.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking.Properties.Resources.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking.csproj.GenerateResource.Cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect_tracking\kinect_tracking\obj\Debug\kinect_tracking.csprojResolveAssemblyReference.cache

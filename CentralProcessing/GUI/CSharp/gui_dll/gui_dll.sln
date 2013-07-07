@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gui_dll", "gui_dll.csproj", "{4E9377F3-33A5-4ACC-8377-8F3474330B88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gui_form", "..\gui_form\gui_form.csproj", "{3E75A442-7DEB-41E7-A34B-134E7409B275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9377F3-33A5-4ACC-8377-8F3474330B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9377F3-33A5-4ACC-8377-8F3474330B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9377F3-33A5-4ACC-8377-8F3474330B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9377F3-33A5-4ACC-8377-8F3474330B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E75A442-7DEB-41E7-A34B-134E7409B275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E75A442-7DEB-41E7-A34B-134E7409B275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E75A442-7DEB-41E7-A34B-134E7409B275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E75A442-7DEB-41E7-A34B-134E7409B275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

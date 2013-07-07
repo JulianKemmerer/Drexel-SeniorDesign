@@ -1,0 +1,134 @@
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+H:\My Dropbox\Dropbox\Microsoft Kinect SDK Beta\DTWGestureRecognition\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csproj.GenerateResource.Cache
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\medeni\Desktop\trunk\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\julian\Desktop\kinectdtw1.5\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-experimental\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-3-12\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-gesture1.6-livedemo-12-5-12\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csproj.GenerateResource.Cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csproj.GenerateResource.Cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.exe
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\DTWGestureRecognition.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csprojResolveAssemblyReference.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\MainWindow.baml
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\MainWindow.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\App.g.cs
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition_MarkupCompile.cache
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.g.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.Properties.Resources.resources
+C:\Dropbox\Drexel\Classes\Junior Year\Senior Design\Kinect\Gesture-Motion\kinect-dtw-experimental\DTWGestureRecognition\obj\x86\Debug\DTWGestureRecognition.csproj.GenerateResource.Cache

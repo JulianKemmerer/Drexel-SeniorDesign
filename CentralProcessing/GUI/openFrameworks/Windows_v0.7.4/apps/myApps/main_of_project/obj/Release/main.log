@@ -1,0 +1,64 @@
+﻿Build started 5/23/2013 10:13:33 PM.
+     1>Project "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "obj\Release\main.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\libs\openFrameworks /I..\..\..\libs\openFrameworks\graphics /I..\..\..\libs\openFrameworks\app /I..\..\..\libs\openFrameworks\sound /I..\..\..\libs\openFrameworks\utils /I..\..\..\libs\openFrameworks\communication /I..\..\..\libs\openFrameworks\video /I..\..\..\libs\openFrameworks\types /I..\..\..\libs\openFrameworks\math /I..\..\..\libs\openFrameworks\3d /I..\..\..\libs\openFrameworks\gl /I..\..\..\libs\openFrameworks\events /I..\..\..\libs\glut\include /I..\..\..\libs\rtAudio\include /I..\..\..\libs\quicktime\include /I..\..\..\libs\freetype\include /I..\..\..\libs\freetype\include\freetype2 /I..\..\..\libs\freeImage\include /I..\..\..\libs\fmodex\include /I..\..\..\libs\videoInput\include /I..\..\..\libs\glew\include\ /I..\..\..\libs\glu\include /I..\..\..\libs\tess2\include /I..\..\..\libs\cairo\include\cairo /I..\..\..\libs\poco\include /I..\..\..\addons /Isrc /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D POCO_STATIC /D CAIRO_WIN32_STATIC_BUILD /D DISABLE_SOME_FLOATING_POINT /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"obj\Release\\" /Fd"obj\Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\CrossPlatformCode\app.cpp ..\..\..\..\CrossPlatformCode\main.cpp ..\..\..\..\CrossPlatformCode\string_consts.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\NetworkingUtils.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\UdpSocket.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\NetworkingUtilsWin.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\UdpSocketWin.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscPrintReceivedElements.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscReceivedElements.cpp ..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscTypes.cpp ..\..\..\addons\ofxOsc\src\ofxOscBundle.cpp ..\..\..\addons\ofxOsc\src\ofxOscMessage.cpp ..\..\..\addons\ofxOsc\src\ofxOscReceiver.cpp ..\..\..\addons\ofxOsc\src\ofxOscSender.cpp ..\..\..\libs\openFrameworks\sound\ofPASoundStream.cpp
+         app.cpp
+     1>c:\users\zimmerman\dropbox\senior design\centralprocessing\gui\openframeworks\crossplatformcode\app.h(8): fatal error C1083: Cannot open include file: 'ofxOsc.h': No such file or directory
+         main.cpp
+     1>c:\users\zimmerman\dropbox\senior design\centralprocessing\gui\openframeworks\crossplatformcode\app.h(8): fatal error C1083: Cannot open include file: 'ofxOsc.h': No such file or directory
+         string_consts.cpp
+     1>c:\users\zimmerman\dropbox\senior design\centralprocessing\gui\openframeworks\crossplatformcode\app.h(8): fatal error C1083: Cannot open include file: 'ofxOsc.h': No such file or directory
+         IpEndpointName.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(52): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(67): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(71): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\IpEndpointName.cpp(78): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+         NetworkingUtils.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\NetworkingUtils.cpp(30): fatal error C1083: Cannot open include file: 'ip/NetworkingUtils.h': No such file or directory
+         UdpSocket.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\posix\UdpSocket.cpp(30): fatal error C1083: Cannot open include file: 'ip/UdpSocket.h': No such file or directory
+         NetworkingUtilsWin.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\NetworkingUtilsWin.cpp(30): fatal error C1083: Cannot open include file: 'ip/NetworkingUtils.h': No such file or directory
+         UdpSocketWin.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\ip\win32\UdpSocketWin.cpp(30): fatal error C1083: Cannot open include file: 'ip/UdpSocket.h': No such file or directory
+         OscOutboundPacketStream.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp(581): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscOutboundPacketStream.cpp(601): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         OscPrintReceivedElements.cpp
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscPrintReceivedElements.cpp(118): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(86) : see declaration of 'ctime'
+     1>..\..\..\addons\ofxOsc\libs\oscpack\src\osc\OscPrintReceivedElements.cpp(121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105) : see declaration of 'strcpy'
+         OscReceivedElements.cpp
+         OscTypes.cpp
+         ofxOscBundle.cpp
+         ofxOscMessage.cpp
+     1>..\..\..\addons\ofxOsc\src\ofxOscMessage.cpp(93): warning C4244: 'return' : conversion from 'float' to 'int32_t', possible loss of data
+     1>..\..\..\addons\ofxOsc\src\ofxOscMessage.cpp(112): warning C4244: 'return' : conversion from 'float' to 'uint64_t', possible loss of data
+     1>..\..\..\addons\ofxOsc\src\ofxOscMessage.cpp(132): warning C4244: 'return' : conversion from 'int32_t' to 'float', possible loss of data
+         ofxOscReceiver.cpp
+     1>c:\users\zimmerman\dropbox\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxOscReceiver.h(45): fatal error C1083: Cannot open include file: 'OscTypes.h': No such file or directory
+         ofxOscSender.cpp
+     1>c:\users\zimmerman\dropbox\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\addons\ofxosc\src\ofxOscSender.h(44): fatal error C1083: Cannot open include file: 'OscTypes.h': No such file or directory
+         ofPASoundStream.cpp
+     1>..\..\..\libs\openFrameworks\sound\ofPASoundStream.cpp(5): fatal error C1083: Cannot open include file: 'portaudio.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "C:\Users\Zimmerman\Dropbox\Senior Design\CentralProcessing\GUI\openFrameworks\Windows_v0.7.4\apps\myApps\main_of_project\main.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:07.08

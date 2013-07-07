@@ -1,0 +1,393 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4200D07516E7AC9B007ED650 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4200D07416E7AC9B007ED650 /* UIKit.framework */; };
+		4200D07716E7AC9B007ED650 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4200D07616E7AC9B007ED650 /* Foundation.framework */; };
+		4200D07916E7AC9B007ED650 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4200D07816E7AC9B007ED650 /* CoreGraphics.framework */; };
+		4200D07F16E7AC9B007ED650 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4200D07D16E7AC9B007ED650 /* InfoPlist.strings */; };
+		4200D08116E7AC9B007ED650 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D08016E7AC9B007ED650 /* main.m */; };
+		4200D08516E7AC9B007ED650 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D08416E7AC9B007ED650 /* AppDelegate.m */; };
+		4200D08716E7AC9B007ED650 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 4200D08616E7AC9B007ED650 /* Default.png */; };
+		4200D08916E7AC9B007ED650 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4200D08816E7AC9B007ED650 /* Default@2x.png */; };
+		4200D08B16E7AC9B007ED650 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4200D08A16E7AC9B007ED650 /* Default-568h@2x.png */; };
+		4200D08E16E7AC9B007ED650 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D08D16E7AC9B007ED650 /* ViewController.m */; };
+		4200D09116E7AC9B007ED650 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4200D08F16E7AC9B007ED650 /* ViewController.xib */; };
+		4200D09916E7ACB8007ED650 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4200D09816E7ACB8007ED650 /* AudioToolbox.framework */; };
+		4200D0A516E7AD02007ED650 /* AudioFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D09B16E7AD02007ED650 /* AudioFunctions.m */; };
+		4200D0A616E7AD02007ED650 /* AudioInput.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D09D16E7AD02007ED650 /* AudioInput.m */; };
+		4200D0A716E7AD02007ED650 /* AudioOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D09F16E7AD02007ED650 /* AudioOutput.m */; };
+		4200D0A816E7AD02007ED650 /* SimpleFFT.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D0A216E7AD02007ED650 /* SimpleFFT.m */; };
+		4200D0A916E7AD02007ED650 /* VectorFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D0A416E7AD02007ED650 /* VectorFunctions.m */; };
+		4200D0AB16E7AE03007ED650 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4200D0AA16E7AE03007ED650 /* Accelerate.framework */; };
+		4200D0AF16E7B07F007ED650 /* MatlabFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D0AE16E7B07F007ED650 /* MatlabFunctions.m */; };
+		4200D0B316E7B340007ED650 /* SignalFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D0B216E7B340007ED650 /* SignalFunctions.m */; };
+		4200D0B616E7B4DD007ED650 /* SpeakerTone.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D0B516E7B4DD007ED650 /* SpeakerTone.m */; };
+		4200D0B916E7E6A8007ED650 /* CircularBuffer.m in Sources */ = {isa = PBXBuildFile; fileRef = 4200D0B816E7E6A8007ED650 /* CircularBuffer.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4200D07116E7AC9B007ED650 /* BeepLocator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeepLocator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4200D07416E7AC9B007ED650 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		4200D07616E7AC9B007ED650 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4200D07816E7AC9B007ED650 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4200D07C16E7AC9B007ED650 /* BeepLocator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BeepLocator-Info.plist"; sourceTree = "<group>"; };
+		4200D07E16E7AC9B007ED650 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4200D08016E7AC9B007ED650 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4200D08216E7AC9B007ED650 /* BeepLocator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BeepLocator-Prefix.pch"; sourceTree = "<group>"; };
+		4200D08316E7AC9B007ED650 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4200D08416E7AC9B007ED650 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4200D08616E7AC9B007ED650 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		4200D08816E7AC9B007ED650 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		4200D08A16E7AC9B007ED650 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		4200D08C16E7AC9B007ED650 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4200D08D16E7AC9B007ED650 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4200D09016E7AC9B007ED650 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		4200D09816E7ACB8007ED650 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		4200D09A16E7AD02007ED650 /* AudioFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioFunctions.h; sourceTree = "<group>"; };
+		4200D09B16E7AD02007ED650 /* AudioFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioFunctions.m; sourceTree = "<group>"; };
+		4200D09C16E7AD02007ED650 /* AudioInput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioInput.h; sourceTree = "<group>"; };
+		4200D09D16E7AD02007ED650 /* AudioInput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioInput.m; sourceTree = "<group>"; };
+		4200D09E16E7AD02007ED650 /* AudioOutput.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioOutput.h; sourceTree = "<group>"; };
+		4200D09F16E7AD02007ED650 /* AudioOutput.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioOutput.m; sourceTree = "<group>"; };
+		4200D0A016E7AD02007ED650 /* AudioParameters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioParameters.h; sourceTree = "<group>"; };
+		4200D0A116E7AD02007ED650 /* SimpleFFT.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SimpleFFT.h; sourceTree = "<group>"; };
+		4200D0A216E7AD02007ED650 /* SimpleFFT.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SimpleFFT.m; sourceTree = "<group>"; };
+		4200D0A316E7AD02007ED650 /* VectorFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VectorFunctions.h; sourceTree = "<group>"; };
+		4200D0A416E7AD02007ED650 /* VectorFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VectorFunctions.m; sourceTree = "<group>"; };
+		4200D0AA16E7AE03007ED650 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
+		4200D0AD16E7B07F007ED650 /* MatlabFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MatlabFunctions.h; path = "../../../SMT Apps/SMT_iOS/AcousticAnalysis/AcousticAnalysis/MatlabFunctions.h"; sourceTree = "<group>"; };
+		4200D0AE16E7B07F007ED650 /* MatlabFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MatlabFunctions.m; path = "../../../SMT Apps/SMT_iOS/AcousticAnalysis/AcousticAnalysis/MatlabFunctions.m"; sourceTree = "<group>"; };
+		4200D0B116E7B340007ED650 /* SignalFunctions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignalFunctions.h; sourceTree = "<group>"; };
+		4200D0B216E7B340007ED650 /* SignalFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignalFunctions.m; sourceTree = "<group>"; };
+		4200D0B416E7B4DD007ED650 /* SpeakerTone.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeakerTone.h; sourceTree = "<group>"; };
+		4200D0B516E7B4DD007ED650 /* SpeakerTone.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeakerTone.m; sourceTree = "<group>"; };
+		4200D0B716E7E6A8007ED650 /* CircularBuffer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircularBuffer.h; sourceTree = "<group>"; };
+		4200D0B816E7E6A8007ED650 /* CircularBuffer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircularBuffer.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4200D06E16E7AC9B007ED650 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4200D0AB16E7AE03007ED650 /* Accelerate.framework in Frameworks */,
+				4200D09916E7ACB8007ED650 /* AudioToolbox.framework in Frameworks */,
+				4200D07516E7AC9B007ED650 /* UIKit.framework in Frameworks */,
+				4200D07716E7AC9B007ED650 /* Foundation.framework in Frameworks */,
+				4200D07916E7AC9B007ED650 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4200D06816E7AC9B007ED650 = {
+			isa = PBXGroup;
+			children = (
+				4200D07A16E7AC9B007ED650 /* BeepLocator */,
+				4200D07316E7AC9B007ED650 /* Frameworks */,
+				4200D07216E7AC9B007ED650 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4200D07216E7AC9B007ED650 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4200D07116E7AC9B007ED650 /* BeepLocator.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4200D07316E7AC9B007ED650 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4200D0AA16E7AE03007ED650 /* Accelerate.framework */,
+				4200D09816E7ACB8007ED650 /* AudioToolbox.framework */,
+				4200D07416E7AC9B007ED650 /* UIKit.framework */,
+				4200D07616E7AC9B007ED650 /* Foundation.framework */,
+				4200D07816E7AC9B007ED650 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4200D07A16E7AC9B007ED650 /* BeepLocator */ = {
+			isa = PBXGroup;
+			children = (
+				4200D0B016E7B087007ED650 /* DSP */,
+				4200D0AC16E7AE35007ED650 /* Math Functions */,
+				4200D09716E7ACA3007ED650 /* Audio Functions */,
+				4200D08316E7AC9B007ED650 /* AppDelegate.h */,
+				4200D08416E7AC9B007ED650 /* AppDelegate.m */,
+				4200D08C16E7AC9B007ED650 /* ViewController.h */,
+				4200D08D16E7AC9B007ED650 /* ViewController.m */,
+				4200D08F16E7AC9B007ED650 /* ViewController.xib */,
+				4200D07B16E7AC9B007ED650 /* Supporting Files */,
+			);
+			path = BeepLocator;
+			sourceTree = "<group>";
+		};
+		4200D07B16E7AC9B007ED650 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4200D07C16E7AC9B007ED650 /* BeepLocator-Info.plist */,
+				4200D07D16E7AC9B007ED650 /* InfoPlist.strings */,
+				4200D08016E7AC9B007ED650 /* main.m */,
+				4200D08216E7AC9B007ED650 /* BeepLocator-Prefix.pch */,
+				4200D08616E7AC9B007ED650 /* Default.png */,
+				4200D08816E7AC9B007ED650 /* Default@2x.png */,
+				4200D08A16E7AC9B007ED650 /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4200D09716E7ACA3007ED650 /* Audio Functions */ = {
+			isa = PBXGroup;
+			children = (
+				4200D09A16E7AD02007ED650 /* AudioFunctions.h */,
+				4200D09B16E7AD02007ED650 /* AudioFunctions.m */,
+				4200D09C16E7AD02007ED650 /* AudioInput.h */,
+				4200D09D16E7AD02007ED650 /* AudioInput.m */,
+				4200D09E16E7AD02007ED650 /* AudioOutput.h */,
+				4200D09F16E7AD02007ED650 /* AudioOutput.m */,
+				4200D0A016E7AD02007ED650 /* AudioParameters.h */,
+			);
+			name = "Audio Functions";
+			sourceTree = "<group>";
+		};
+		4200D0AC16E7AE35007ED650 /* Math Functions */ = {
+			isa = PBXGroup;
+			children = (
+				4200D0AD16E7B07F007ED650 /* MatlabFunctions.h */,
+				4200D0AE16E7B07F007ED650 /* MatlabFunctions.m */,
+				4200D0A316E7AD02007ED650 /* VectorFunctions.h */,
+				4200D0A416E7AD02007ED650 /* VectorFunctions.m */,
+			);
+			name = "Math Functions";
+			sourceTree = "<group>";
+		};
+		4200D0B016E7B087007ED650 /* DSP */ = {
+			isa = PBXGroup;
+			children = (
+				4200D0A116E7AD02007ED650 /* SimpleFFT.h */,
+				4200D0A216E7AD02007ED650 /* SimpleFFT.m */,
+				4200D0B116E7B340007ED650 /* SignalFunctions.h */,
+				4200D0B216E7B340007ED650 /* SignalFunctions.m */,
+				4200D0B416E7B4DD007ED650 /* SpeakerTone.h */,
+				4200D0B516E7B4DD007ED650 /* SpeakerTone.m */,
+				4200D0B716E7E6A8007ED650 /* CircularBuffer.h */,
+				4200D0B816E7E6A8007ED650 /* CircularBuffer.m */,
+			);
+			name = DSP;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4200D07016E7AC9B007ED650 /* BeepLocator */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4200D09416E7AC9B007ED650 /* Build configuration list for PBXNativeTarget "BeepLocator" */;
+			buildPhases = (
+				4200D06D16E7AC9B007ED650 /* Sources */,
+				4200D06E16E7AC9B007ED650 /* Frameworks */,
+				4200D06F16E7AC9B007ED650 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BeepLocator;
+			productName = BeepLocator;
+			productReference = 4200D07116E7AC9B007ED650 /* BeepLocator.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4200D06916E7AC9B007ED650 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Drexel University";
+			};
+			buildConfigurationList = 4200D06C16E7AC9B007ED650 /* Build configuration list for PBXProject "BeepLocator" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 4200D06816E7AC9B007ED650;
+			productRefGroup = 4200D07216E7AC9B007ED650 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4200D07016E7AC9B007ED650 /* BeepLocator */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4200D06F16E7AC9B007ED650 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4200D07F16E7AC9B007ED650 /* InfoPlist.strings in Resources */,
+				4200D08716E7AC9B007ED650 /* Default.png in Resources */,
+				4200D08916E7AC9B007ED650 /* Default@2x.png in Resources */,
+				4200D08B16E7AC9B007ED650 /* Default-568h@2x.png in Resources */,
+				4200D09116E7AC9B007ED650 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4200D06D16E7AC9B007ED650 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4200D08116E7AC9B007ED650 /* main.m in Sources */,
+				4200D08516E7AC9B007ED650 /* AppDelegate.m in Sources */,
+				4200D08E16E7AC9B007ED650 /* ViewController.m in Sources */,
+				4200D0A516E7AD02007ED650 /* AudioFunctions.m in Sources */,
+				4200D0A616E7AD02007ED650 /* AudioInput.m in Sources */,
+				4200D0A716E7AD02007ED650 /* AudioOutput.m in Sources */,
+				4200D0A816E7AD02007ED650 /* SimpleFFT.m in Sources */,
+				4200D0A916E7AD02007ED650 /* VectorFunctions.m in Sources */,
+				4200D0AF16E7B07F007ED650 /* MatlabFunctions.m in Sources */,
+				4200D0B316E7B340007ED650 /* SignalFunctions.m in Sources */,
+				4200D0B616E7B4DD007ED650 /* SpeakerTone.m in Sources */,
+				4200D0B916E7E6A8007ED650 /* CircularBuffer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4200D07D16E7AC9B007ED650 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4200D07E16E7AC9B007ED650 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4200D08F16E7AC9B007ED650 /* ViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4200D09016E7AC9B007ED650 /* en */,
+			);
+			name = ViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4200D09216E7AC9B007ED650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		4200D09316E7AC9B007ED650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4200D09516E7AC9B007ED650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BeepLocator/BeepLocator-Prefix.pch";
+				INFOPLIST_FILE = "BeepLocator/BeepLocator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		4200D09616E7AC9B007ED650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BeepLocator/BeepLocator-Prefix.pch";
+				INFOPLIST_FILE = "BeepLocator/BeepLocator-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4200D06C16E7AC9B007ED650 /* Build configuration list for PBXProject "BeepLocator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4200D09216E7AC9B007ED650 /* Debug */,
+				4200D09316E7AC9B007ED650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4200D09416E7AC9B007ED650 /* Build configuration list for PBXNativeTarget "BeepLocator" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4200D09516E7AC9B007ED650 /* Debug */,
+				4200D09616E7AC9B007ED650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4200D06916E7AC9B007ED650 /* Project object */;
+}

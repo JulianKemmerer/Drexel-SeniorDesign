@@ -1,0 +1,59 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 10.00.30319.01 (939380a2).
+//
+// c:\users\excite\dropbox\drexel\classes\junior year\senior design\centralprocessing\gui\openframeworks\windows_v0.7.4\apps\myapps\main_of_project\obj\debug\gui_form.tlh
+//
+// C++ source equivalent of Win32 type library ..\..\..\..\..\..\CSharp\gui_dll\bin\Debug\gui_form.tlb
+// compiler-generated file created 06/12/13 at 20:33:57 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace gui_form {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("30e1030c-860a-3260-acfc-4395d1055b30"))
+/* LIBID */ __gui_form;
+struct /* coclass */ App;
+struct /* coclass */ MainWindow;
+struct __declspec(uuid("0148f43e-a779-314b-8420-49989ebad3ec"))
+/* dual interface */ _App;
+struct __declspec(uuid("19f43c62-e1c4-3758-936b-6b7fe87279c4"))
+/* dual interface */ _MainWindow;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(_App, __uuidof(_App));
+_COM_SMARTPTR_TYPEDEF(_MainWindow, __uuidof(_MainWindow));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("62e2971a-8f09-3456-9f2d-7683a6b1c511"))
+App;
+    // [ default ] interface _App
+    // interface _Object
+
+struct __declspec(uuid("746aa354-987f-31b7-8e39-74166bc1b779"))
+MainWindow;
+    // [ default ] interface _MainWindow
+    // interface _Object
+
+struct __declspec(uuid("0148f43e-a779-314b-8420-49989ebad3ec"))
+_App : IDispatch
+{};
+
+struct __declspec(uuid("19f43c62-e1c4-3758-936b-6b7fe87279c4"))
+_MainWindow : IDispatch
+{};
+
+} // namespace gui_form
+
+#pragma pack(pop)
